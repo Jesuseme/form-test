@@ -56,7 +56,7 @@
 
          
 
-        $mailTo = "jesuseme@sepbravtech.com";
+        $mailTo = "popesems@gmail.com";
         $headers = "From: ". $emailFrom;
         $txt = "You have recieved and email from  ". $name. ".\n\n" . $message;
 
